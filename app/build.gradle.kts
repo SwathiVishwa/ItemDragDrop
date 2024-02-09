@@ -73,7 +73,7 @@ dependencies {
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
 
     //ComposeReOrder
-    implementation("sh.calvin.reorderable:reorderable:1.0.1")
+    implementation("sh.calvin.reorderable:reorderable:1.3.1")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
